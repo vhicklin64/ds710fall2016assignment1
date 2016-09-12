@@ -1,8 +1,23 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
+1. What is your name? Valerie Hicklin Thomas
+2. Why are you interested in Data Science?  I am interested in learning new tools and approaches to solving business 
+problems.  I have worked in retail the majority of my career and I feel it is always good to understand how other 
+businesses are using data.
+
+3. Tell us a little bit about your programming experience. I have 15+ Year in SQL and SAS.  I have used R for the past 2 years but not on a regular basis.
+  What programming courses have you taken?  I have not taken any programming classes I have learned everything on the job.
+Do you use programming on the job, and if so, how?  I use programs to extract data from databases to use in analytics or creating tables for BI reporting.
+
+4.  Tell us a little bit about your statistics experience. What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken DS705 in the spring semester.  In addition, I have taken 2 master level courses in statistics at Colorado State(online) in 2004 
+and 2 course at Penn State(online) in 2010.  My biggest challenge how to apply the typical statistic class data set typically < 100 samples to the world 
+I have always worked in which can be millions of samples, records etc.
+
+5.  Do you have other experience with R or Python?  I used R in DS705.  I have used it at work from time to time to pull data from databases
+ or to create correlations, regression model, etc.  A lot of what I have done is R-sql like queries instead of typical R code.
+
+6.  What do you hope to learn in this class?  I would like to learn more R code.  Understand how to do something I know well in sql and do it in R.  
+In addition, I have heard a lot about python and I have purchased a few books but I needed deadlines to force myself to learn it.
+
 7.  Is there anything else you would like to share with us?
+I work for Nielsen supporting Walmart US & International with anything from a simple request to creating synthetic store matching.
